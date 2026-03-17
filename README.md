@@ -22,7 +22,7 @@
 
 ## About the Project
 
-This is a portfolio project demonstrating professional QA automation practices against a real e-commerce demo application. It covers **login**, **cart**, **checkout**, and **regression** scenarios across **Chromium** and **Firefox**.
+This is a project demonstrating professional QA automation practices against a real e-commerce demo application. It covers **login**, **cart**, **checkout**, and **regression** scenarios across **Chromium** and **Firefox**.
 
 **Key highlights:**
 
